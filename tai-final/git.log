@@ -1,0 +1,293 @@
+commit 5a3c7213d5853c24117e731b08ccc539de0ea73d
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 30 14:28:47 2020 -0300
+
+    retirando rota contato do grupo auth
+
+commit fd5d002c1d57de57c09cfff87602337cef4898bc
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 18:28:39 2020 -0300
+
+    removendo comentario da tela index
+
+commit d68eb722fa4df196ff1d4cb6a29724db34b6515b
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 18:27:39 2020 -0300
+
+    removendo item css tela layout.maste
+
+commit 65f962e7c024f9025866c08b0d5b2887b47a93bc
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 17:13:34 2020 -0300
+
+    comentariocontroller modificado e organizado
+
+commit 294d9bb45e341aa8d99ab9805298daad1f3bc9b9
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 17:02:36 2020 -0300
+
+    threadcontroller verificada + rotas organizadas
+
+commit 98cbd4ebdaba468203afe218477cf3546536843f
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 16:31:40 2020 -0300
+
+    assuntocontroller verificado - rotas verificadas
+
+commit 840da955a875ce3a8563e4b811f1448f439d51f8
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 16:23:12 2020 -0300
+
+    controllers escopo e users protegidos, pequena alteracao em views + arquivo de rotas conferido
+
+commit e7da9a1871c3313c4bedb1ce183418500711d0bf
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 29 15:41:35 2020 -0300
+
+    somente uma pequena traduca
+
+commit 9e308efbae40f37149bdd602e11b6972318f6728
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 28 22:02:24 2020 -0300
+
+    arrumando lang das paginas
+
+commit ab45148cf8f27f2d15bc3481738d9387c35d5ae1
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 28 22:01:50 2020 -0300
+
+    traduzinho páginas
+
+commit 4ba903600ab70af66f592d2de0764725d17f8caf
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 28 20:37:00 2020 -0300
+
+    sistema de edicao de comentarios adicionado
+
+commit 90ca887d15a5bc4f97cfd54bf9aa1d70cca1fb4f
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 28 19:34:07 2020 -0300
+
+    alteracoes adicionadas
+
+commit 4458c16df49ed0342c5ce28ec4952bd299689ebd
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 28 16:21:11 2020 -0300
+
+    tela de contato adicionada + algumas alteracoes de organizacao
+
+commit 27e2aa8170618e3373847f72746e9565cd03bfb5
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 27 15:09:17 2020 -0300
+
+    organizacao e pequenas alteracoes
+
+commit 1cd93016ec01635533bf751566ab38ae0648e28b
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 27 00:28:12 2020 -0300
+
+    nao sei
+
+commit 55e55bf071b4dc3a6af7ac4480cc0079be6d185c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 27 00:00:12 2020 -0300
+
+    alteracoes
+
+commit 71eea04c342d624512f847650b7b43a064001a9c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 22:54:15 2020 -0300
+
+    sistema de busca por assuntos adicionado
+
+commit d46244f58f09a246316241eb4b956c5f22f65760
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 22:36:52 2020 -0300
+
+    detalhe
+
+commit 649a781977031413a87fd72f34f7536384ea7b42
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 22:32:52 2020 -0300
+
+    funcionalidades adicionadas e organizacoes alteradas
+
+commit 39b0fd23ca734ab9dfcedfa311e8134857ca01cd
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 18:06:44 2020 -0300
+
+    alteracoes de organizacao, revisao do projeto
+
+commit c0355d660460d9e0a68308ee204243160939c571
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 17:36:07 2020 -0300
+
+    iniciando organizacao de um novo controller index
+
+commit a16dbc605179da78209a89367521e0284c6908dc
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 17:32:22 2020 -0300
+
+    alterando migration das threads e algumas alteracoes pequenas
+
+commit b5faf621401e1c01b0ba42160dd32e9708e3a38c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 17:22:20 2020 -0300
+
+    algumas alteracoes em redirecionamentos e detalhes nas views de assuntos e escopos
+
+commit c86db7d3ebeccbe3390578b62d708019f6e84e4f
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 26 11:10:52 2020 -0300
+
+    organizando site e algumas alteracoes
+
+commit 1af2c8c1d7b836812e5a1797f7c1f34058f47798
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 19:19:16 2020 -0300
+
+    pequenas alteracoes + detalhes
+
+commit 0b9828a94f2d2c225a76084454d531a31fe9e5a6
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 17:05:11 2020 -0300
+
+    trazendo comentarios de forma paginada + pequenas alteracoes em detalhes
+
+commit 18b328b82e4857e4ad85ba1bd729a8d74fa164a4
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 16:29:46 2020 -0300
+
+    sistema de adicionar comentario funcional
+
+commit d9c0b6092476605e34acf442011504b2f05b5f45
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 14:01:52 2020 -0300
+
+    organizando cards-headers e mais alguns detalhes
+
+commit 81e8d28e1138b3b528aa7e357bece962d5f44ea0
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 10:26:47 2020 -0300
+
+    pequenas alteracoes
+
+commit ac1fa0d2c9e4f796f7544d313f77c7655f8e196a
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 23 10:13:17 2020 -0300
+
+    implementando sistema de discucao (comentarios)
+
+commit 64af861e7dcd5a5d44e8b3a645db3b065c54bb54
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Nov 21 13:09:42 2020 -0300
+
+    profile list threads
+
+commit 8d0a865b39d85366f88dd276e5187e9d0c4bb6c9
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 20 15:00:12 2020 -0300
+
+    tag select traz o item previamente selecionado na tela de edicoes
+
+commit 590439a0bfebda4c43998974140cfaae5f1b2a06
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 19 19:16:12 2020 -0300
+
+    implementando profile e edicoes de conta de usuario
+
+commit e01377f0388bfab9ccf45877f949177ed8a4e662
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 19 14:20:46 2020 -0300
+
+    trazendo dados da api para a tela de perfil
+
+commit 971d99081d79435ae959257ac65fb3fbe7f943bc
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 19 14:02:44 2020 -0300
+
+    usercontroller implementado + tela de perfil
+
+commit aca15f34c74035b4ce06a3da80789332fde74f24
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 19 11:07:22 2020 -0300
+
+    alterando migration e assunto seeder
+
+commit e31989f7094f5dad97d0eb7b341d61cebfda53ce
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Wed Nov 18 16:36:20 2020 -0300
+
+    pequenas alteracoes + func no crud api e trazendo dados de forma correta da api
+
+commit 275d09b312b15970f9a8f3639b954aad5eee01c2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 21:04:11 2020 -0300
+
+    algumas alteracoes com adicoes no seeder das threads
+
+commit d023aa7251d72e7b7047e6dfed923f85fde539e1
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 18:53:13 2020 -0300
+
+    seeders criados
+
+commit a3cb8f6e30914d235009487337d0727e23e39c5b
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 18:17:30 2020 -0300
+
+    crud api completo + algumas aleracoes
+
+commit 4ef881bd83e4a7d480d2f2efd3bcc6b675e93ed2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 14:13:52 2020 -0300
+
+    fazendo crud api + organizacoes basicas ligadas a api
+
+commit 5eb8846f53c04df4ae40de78008081ae3386b2c5
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 10:11:32 2020 -0300
+
+    pequenas alteracoes + comecando controller da api
+
+commit a62deb4fc1fecdd3d0cf854950749b40d2236521
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 17 09:36:37 2020 -0300
+
+    adicionando threads a tela inicial
+
+commit 77a6b1dc511cd214459e03eba8ac26f7922872a7
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 16 21:02:56 2020 -0300
+
+    criacao das telas para assuntos + desenvolvimento do crud para assuntos em andamento
+
+commit 79a741a96630448772d7d291471ff92e156b850e
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 16 19:38:51 2020 -0300
+
+    diversas alterações + crud dos escopos iniciado
+
+commit 4cce72192f51413e2275ba09334c680275508569
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 13 14:49:35 2020 -0300
+
+    formatando tela inicial
+
+commit 9940a9e40b3b087ff55b1bc1d8d151620abecb4c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 13 13:56:01 2020 -0300
+
+    instalando bootstrap
+
+commit 0033a9b84a9034592cfcc92c1e527e901c13a076
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 23:48:07 2020 -0300
+
+    somente testes e algumas configuracoes
+
+commit 5f9f6573d71a7b830854556c4604f3734696b694
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 18:28:49 2020 -0300
+
+    first commit

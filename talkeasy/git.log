@@ -1,0 +1,246 @@
+commit ddf49ceabeab40f6a67cf2d6888ee81bf87e4162
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 12 18:47:16 2020 -0300
+
+    melhorias no sistema de sugestoes
+
+commit 196eb7cb3800617514a5d00513e0c64ff2a7d8d2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 10 15:24:40 2020 -0300
+
+    melhorias e correções
+
+commit 2ca1a4041c92d114a1f79fb1cc5c6b63cb4b8655
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 01:27:58 2020 -0300
+
+    seeders e testes
+
+commit c0fce9ef8f155b0593e937f1429c43e648f88df5
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 00:51:55 2020 -0300
+
+    garantindo que um usuario comum nao acesse opcoes de administrador
+
+commit 7c4ca56e72275acfde19eec1789482f4da4871fd
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 00:33:39 2020 -0300
+
+    descomentando route usuario
+
+commit a3be5bf3d16562acd91375201cd9a25ea3b7b64c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 00:24:55 2020 -0300
+
+    organizando projeto
+
+commit 766e2f70bfe1f9bb73de78260cc8030caf05caad
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Nov 9 00:12:57 2020 -0300
+
+    sistema editar sugestao criado + pequenas modificacoes nas telas
+
+commit a030fe1353fe930c8da50a8d95e2c93b5acd4488
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 8 23:36:45 2020 -0300
+
+    abas de busca formatadas e organizadas. titulos organizados
+
+commit 057316d6c348ce8c8898f0a58581f6e9cd8afc6e
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 8 23:18:44 2020 -0300
+
+    adicionando tratamento de erro da tela inicial. agora se no contexto nao existirem palavras cadastradas, o usuario sera redirecionado novamente a pagina principal
+
+commit c827de956fff046b1dade9e705d7b14bf49e7649
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 8 22:57:58 2020 -0300
+
+    diretorio das rotas organizado
+
+commit 779c03aba9ca1f7fc8c588e7e55bab2577a097a7
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 8 22:48:01 2020 -0300
+
+    sistema de edicao adicionado. algumas outras melhorias pequenas
+
+commit 99aceb0100fc481b81db21a91c144dba87bc048d
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 6 13:24:30 2020 -0300
+
+    organizando sistema de administracao
+
+commit c55c7342c925a136775bf0901068024efc727ab6
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 6 13:17:34 2020 -0300
+
+    sistema de pastas e organizando sistema de administracao
+
+commit 0e6d0a8bdfb330bcc4274c392b5bc93394e927a7
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Nov 6 11:04:40 2020 -0300
+
+    organizando sistema de administracao
+
+commit c014141204af6f65e6798722a58616c6bf68d9db
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 5 14:38:12 2020 -0300
+
+    organizando sistema de administracao
+
+commit 96898744fa43cf23f0abe53d1c6b1b220b18467a
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 5 14:18:19 2020 -0300
+
+    organizando sistema de adminsitracao
+
+commit 13c6eb79c152bfc771e9fcf821003266ce1e0809
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 5 13:35:24 2020 -0300
+
+    sistema de sugestoes melhorado, configurando sistema de administracao
+
+commit 9064b6a97061e7f7282effb210bee3e4b2d6353b
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 5 02:37:40 2020 -0300
+
+    commit antes de dormir, nem lembro o que fiz
+
+commit 9586a0ff16d8e2c413f13f7233ef5d9825d0b084
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Nov 5 00:06:35 2020 -0300
+
+    organizando sistema de administracao
+
+commit aafe0d7eb051ec628c679273ff4c5b4b91bce95a
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Wed Nov 4 23:11:53 2020 -0300
+
+    organizando CRUD do painel de administracao
+
+commit a5ee053c9398d16c226f45598abfd88cec1ee291
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Wed Nov 4 22:31:19 2020 -0300
+
+    organizando sistema de administracao
+
+commit 946dcfd620caf17bce589f5c3519c789e3331a4f
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Wed Nov 4 20:57:28 2020 -0300
+
+    sistema de likes feito. painel de controle em construcao
+
+commit 79beeed543a90de1900001b4f44e10e8da8077f7
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Wed Nov 4 20:26:56 2020 -0300
+
+    criando migrations e view sql
+
+commit aa054dfcc44016057b23a77aef6bcc2ca4fd3c1a
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 17:08:33 2020 -0300
+
+    limpando o codigo e comentarios
+
+commit 2b52ef5c8b32d00fb1161dfca410c5619dc3edc2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 16:42:59 2020 -0300
+
+    adicionando ordem decrescente na tela de sugestoes
+
+commit 2870d1d172f8290dcf6bd3224da7676d2edad8a6
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 16:31:27 2020 -0300
+
+    seeders finalizados
+
+commit d5d060874fd29b1c80f44f7f33c7f38b52835061
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 16:23:26 2020 -0300
+
+    User e Sugestao seeders criados, userSeeder finalizado
+
+commit d290ddecf2d866a08ac8067b1b8523e7139a7254
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 16:10:51 2020 -0300
+
+    PalavraSeeder finalizado
+
+commit d49e976906baa74d69d5b0e112266f0d419e1afa
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 15:53:09 2020 -0300
+
+    adicionando mais seeders e imagens ao projeto
+
+commit d74219bbc5ff8495b8439daeb999506f3e5d5fe4
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 13:45:49 2020 -0300
+
+    update readme
+
+commit 9bf4a56c61db94d6b6cf26a73ea61d9303fcc87c
+Merge: b436431 52d39c6
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 13:42:28 2020 -0300
+
+    Merge branch 'master' of https://github.com/OtakuaErmo/talkeasy
+
+commit b4364316b0369e3520a26130119b80eb5629be24
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Nov 3 13:41:11 2020 -0300
+
+    paginacao na tela de sugestoes, alteracao na migration de palavras e criacao de seeders
+
+commit 52d39c662b6b77b8648e887a9168dce70ada8928
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Mon Nov 2 10:12:50 2020 -0300
+
+    Update readme
+
+commit 5ebc83b00f558ddbc8bcc2ff8419a972aa9a8833
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Mon Nov 2 10:11:59 2020 -0300
+
+    Update readme
+
+commit c2660333b822139dee31fa496a075a2344690663
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Mon Nov 2 10:10:10 2020 -0300
+
+    adicionando informações ao readme
+
+commit 4b2e3e8ae87dcf7723a10f57a485371103183b19
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Mon Nov 2 10:07:58 2020 -0300
+
+    readme sobre como clonar este projeto
+
+commit da3ef43b69a318b10cc5093eca3a59d8a2dec7b6
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 1 20:45:46 2020 -0300
+
+    adicionando orientadores a navbar e fazendo ajustes para a telaalfabeto
+
+commit 9846e655785fd6ce13d4117e0d89f88b709792bb
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Nov 1 17:32:52 2020 -0300
+
+    nome do responsavel na tela de sugestoes
+
+commit fd22877686157ef8e3127e149eba8ca70ae3346d
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Oct 31 14:03:20 2020 -0300
+
+    alterando nome das views sugestao e login
+
+commit 1e32beed56248b9a499064409f1b3e03ac25d3af
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Oct 20 19:24:11 2020 -0300
+
+    modal não abria para palavras compostas, usei str_replace
+
+commit ea713092949334b6b25f5bba5dbf1471fff6d9e1
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Fri Oct 16 17:07:37 2020 -0300
+
+    first

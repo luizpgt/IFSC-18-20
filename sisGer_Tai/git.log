@@ -1,0 +1,65 @@
+commit 68ae64ec1a348574b917f5b89809637f0699aa07
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jul 7 20:06:20 2020 -0300
+
+    revisado e finalizado por agora
+
+commit d08ac320463dd5520a82d10311a7719122c6df26
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jul 7 16:23:12 2020 -0300
+
+    finalizando o setor de multas
+
+commit 7fc40597f422505418a0c2f0d26299515d3eddc2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jul 7 13:44:34 2020 -0300
+
+    locacao ainda aceita menores de 18
+
+commit 6b18097d1ddc3ee1807d24ce2de41303fe0766ed
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jul 7 00:19:11 2020 -0300
+
+    relacao locacao concluida
+
+commit 72f3d7a4bc6ca2d724f568e1a5c80b111fd3e0da
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Jul 6 19:28:01 2020 -0300
+
+    relacao veiculo concluida
+
+commit c784c7c30b824356421435113becbb5d9f02dfe9
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Jul 6 17:27:37 2020 -0300
+
+    criando o crud e fazendo relacao cliente
+
+commit 633f3bc568031afc38776385a5a4fd6a63dcfaaf
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Jul 2 18:42:32 2020 -0300
+
+    criando a estrutura de pastas3
+
+commit 3be87dc42109e40fead2a3851d21564d05fce5db
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Jul 2 18:31:49 2020 -0300
+
+    criando a estrutura de pastas
+
+commit e585f99a7f5517e6f1a587d585a0c5c8150bb9a8
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Thu Jul 2 18:29:17 2020 -0300
+
+    criando a estrutura de pastas
+
+commit bcb12e69780fc2c06bc2435e5ffcb1cef6c314fd
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jun 30 17:18:54 2020 -0300
+
+    guia basico para manter o repositorio
+
+commit 7d60ae387e1b8b9d0f0c2729817c6e74f7975a6d
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Tue Jun 30 11:15:28 2020 -0300
+
+    criando rep

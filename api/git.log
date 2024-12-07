@@ -1,0 +1,85 @@
+commit e87feb7254ab8b67967db32af090c3510b7801cd
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Oct 26 15:34:26 2020 -0300
+
+    nada importante
+
+commit 684a9951652a02bb2b8662c3c2e811db02e61829
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Oct 26 14:37:06 2020 -0300
+
+    cada dia liturgico sera decorado conforme for sua cor liturgica
+
+commit b111f4303269df30928e8bc2bff0cbbb6af1acae
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Oct 26 12:02:45 2020 -0300
+
+    formatando dados e alterando forma do card
+
+commit 1cdb8ca4784f59e99af226e3c488a609a57f925c
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Mon Oct 26 11:30:12 2020 -0300
+
+    trocando sistema de local para sessionStorage e formatando a data
+
+commit 7c8fb6dc3e226cde6b6d1ba08a9b71e9b8ee363f
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 18:46:43 2020 -0300
+
+    retirando meta-tag
+
+commit 5fb117034b850c8e738d07c30ea352509c407367
+Merge: 0bd4f30 172ed44
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 18:31:37 2020 -0300
+
+    Merge branch 'master' of https://github.com/OtakuaErmo/api
+
+commit 172ed44b9a0bd1693d18b427c0a7e02d57cd799a
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Sun Oct 25 18:31:07 2020 -0300
+
+    adicionando meta tag
+
+commit 0bd4f30fa164edf09a00387774708bb94bc0ddfd
+Merge: 2378cb4 36a88c9
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 18:27:50 2020 -0300
+
+    Merge branch 'master' of https://github.com/OtakuaErmo/api
+
+commit 2378cb49e55f26867afd2560f2466dd2736cb36d
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 18:25:55 2020 -0300
+
+    meta-tag adicionada
+
+commit 36a88c9dfcfc76d6183fcdd50992382c767f81d6
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Sun Oct 25 15:27:53 2020 -0300
+
+    retornando css original
+
+commit 6dde3a032641e890d8a3e23cae14487fccec484c
+Author: OtakuaErmo <57230577+OtakuaErmo@users.noreply.github.com>
+Date:   Sun Oct 25 15:26:10 2020 -0300
+
+    comentando styles
+
+commit 3a3d2f3a6f303328f516dbc5ceec611e57c52bb2
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 14:09:06 2020 -0300
+
+    commitando igual ao inicial
+
+commit 9e7ddb882c089a0c038773011d66388bd1099cdb
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sun Oct 25 13:53:57 2020 -0300
+
+    tentando arrumar
+
+commit 9200540c00440a3c51533c731bf414fe09284071
+Author: OtakuaErmo <luiz.paulus51@gmail.com>
+Date:   Sat Oct 24 22:50:46 2020 -0300
+
+    first commit
